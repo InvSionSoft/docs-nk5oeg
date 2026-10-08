@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-sb9pvq.rtb-system.online/sitemap.xml
